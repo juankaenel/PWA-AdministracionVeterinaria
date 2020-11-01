@@ -1,0 +1,5 @@
+Guía de manifiest
+
+"display": "standalone" en el display colocamos como queremos que se vea la parte de arriba de la app, en este caso que nos quite la barra de navegacion
+
+"orientation": "portrait", esto es para que la app se use/vea solamente en forma vertical
